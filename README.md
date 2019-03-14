@@ -5,5 +5,5 @@ Reliable UDP is Project 3 & has the following files :
 - Receiver.java
 - Sender.java
 
-NTP implementation has =:
+NTP implementation has :
 - NTPClient
